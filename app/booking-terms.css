@@ -1,0 +1,42 @@
+.booking-terms { border-top: 1px solid var(--border); }
+.booking-terms-heading { margin-bottom: 39px; }
+.booking-terms-heading h2 { font-size: clamp(39px, 3.9vw, 55px); line-height: 1.12; letter-spacing: -1.7px; }
+.booking-terms-heading > p { color: var(--muted); font-size: 12px; line-height: 1.9; }
+.booking-terms-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0; border-top: 1px solid var(--border); padding-top: 30px; }
+.booking-terms-grid > article { min-width: 0; padding-inline: 30px; border-right: 1px solid var(--border); }
+.booking-terms-grid > article:first-child { padding-left: 0; }
+.booking-terms-grid > article:last-child { padding-right: 0; border-right: 0; }
+.booking-terms-group-heading { display: flex; align-items: baseline; gap: 12px; min-height: 66px; }
+.booking-terms-group-heading > span { color: var(--gold); font-size: 8px; letter-spacing: 1px; flex-shrink: 0; }
+.booking-terms-group-heading h3 { font-size: 27px; line-height: 1.2; letter-spacing: -.6px; }
+.booking-terms-grid ul { margin: 0; padding-left: 16px; }
+.booking-terms-grid li { padding-left: 5px; margin-bottom: 15px; font-size: 12px; line-height: 1.9; color: #626658; }
+.booking-terms-grid li:last-child { margin-bottom: 0; }
+.booking-terms-grid li::marker { color: var(--gold); font-size: 9px; }
+.booking-terms-original { margin-top: 35px; max-width: 580px; }
+.booking-terms-original > summary { display: flex; justify-content: space-between; align-items: center; gap: 20px; padding-bottom: 12px; border-bottom: 1px solid var(--gold); font-size: 11px; list-style: none; cursor: pointer; }
+.booking-terms-original > summary::-webkit-details-marker { display: none; }
+.booking-terms-original[open] > summary > svg { transform: rotate(90deg); }
+.booking-terms-original > a { display: block; margin-top: 24px; }
+.booking-terms-original img { display: block; width: 100%; height: auto; }
+.booking-terms-original > a > span { display: flex; justify-content: space-between; align-items: center; font-size: 9px; color: var(--gold); margin-top: 13px; }
+.booking-terms-original > summary:focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; }
+.booking-panel .booking-terms-link { display: flex; align-items: center; gap: 12px; font-size: 10px; line-height: 1.5; color: var(--gold); margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border); }
+@media(max-width:900px) {
+  .booking-terms-grid > article { padding-inline: 21px; }
+  .booking-terms-group-heading { gap: 9px; min-height: 73px; }
+  .booking-terms-group-heading h3 { font-size: 25px; }
+  .booking-terms-grid li { font-size: 11px; }
+}
+@media(max-width:650px) {
+  .booking-terms-heading { display: block; margin-bottom: 26px; }
+  .booking-terms-heading h2 { font-size: 39px; }
+  .booking-terms-heading > p { font-size: 11px; margin-top: 18px; }
+  .booking-terms-grid { grid-template-columns: 1fr; padding-top: 0; }
+  .booking-terms-grid > article, .booking-terms-grid > article:first-child, .booking-terms-grid > article:last-child { padding: 25px 0; border-right: 0; border-bottom: 1px solid var(--border); }
+  .booking-terms-group-heading { min-height: 0; margin-bottom: 19px; gap: 13px; }
+  .booking-terms-group-heading h3 { font-size: 27px; }
+  .booking-terms-grid li { font-size: 12px; margin-bottom: 13px; }
+  .booking-terms-original { margin-top: 25px; }
+  .booking-terms-original > summary { font-size: 10px; }
+}

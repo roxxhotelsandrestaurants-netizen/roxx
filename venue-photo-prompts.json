@@ -1,0 +1,47 @@
+{
+  "mode": "built-in image_gen",
+  "intent": "edit",
+  "date": "2026-11-05",
+  "assets": [
+    {
+      "source": "C:/Users/sachi/Downloads/roxx-1.jpeg",
+      "master": "output/imagegen/venue/roxx-1-enhanced.png",
+      "web": "public/images/venue/roxx-1-enhanced.webp",
+      "responsiveWidths": [
+        360,
+        600
+      ],
+      "prompt": "Use case: lighting-weather. Asset type: real ROXX Hotel and Restaurant venue photograph for its existing website gallery. Input image: the single referenced image is the EDIT TARGET, not a style reference. Primary request: professionally retouch this exact photograph only. Improve balanced exposure, recover highlights and shadow detail, neutralize unwanted colour casts while keeping the original colours, add restrained warm inviting hospitality colour grading, subtle local contrast, natural clarity and noise reduction. Preserve the EXACT camera angle, portrait composition, entire frame, room dimensions, architecture, furniture, every object, décor, artwork, lettering and logos. This is conservative photographic enhancement, not redesign or reconstruction. Keep recognizably identical to the original photograph. No added objects, no removed objects, no substituted decorations, no new lighting fixtures, no invented room, no artificial blur, no HDR halos, no oversaturation, no text overlay. Return only the same full portrait photograph attractively retouched, high resolution. Photo-specific invariant: Preserve the curved marble ROXX reception desk and its gold crest, central illuminated horse mosaic, chandelier, panda toy, plants, shelves, religious framed pictures and payment stands exactly."
+    },
+    {
+      "source": "C:/Users/sachi/Downloads/roxx-2.jpeg",
+      "master": "output/imagegen/venue/roxx-2-enhanced.png",
+      "web": "public/images/venue/roxx-2-enhanced.webp",
+      "responsiveWidths": [
+        360,
+        600
+      ],
+      "prompt": "Use case: lighting-weather. Asset type: real ROXX Hotel and Restaurant venue photograph for its existing website gallery. Input image: the single referenced image is the EDIT TARGET, not a style reference. Primary request: professionally retouch this exact photograph only. Improve balanced exposure, recover highlights and shadow detail, neutralize unwanted colour casts while keeping the original colours, add restrained warm inviting hospitality colour grading, subtle local contrast, natural clarity and noise reduction. Preserve the EXACT camera angle, portrait composition, entire frame, room dimensions, architecture, furniture, every object, décor, artwork, lettering and logos. This is conservative photographic enhancement, not redesign or reconstruction. Keep recognizably identical to the original photograph. No added objects, no removed objects, no substituted decorations, no new lighting fixtures, no invented room, no artificial blur, no HDR halos, no oversaturation, no text overlay. Return only the same full portrait photograph attractively retouched, high resolution. Photo-specific invariant: Preserve the red, turquoise, white and pink floral birthday backdrop, original Happy Birthday neon lettering, woven chair, glass table and geometric black-and-white floor. Keep the coloured party lights, only balance their harshness."
+    },
+    {
+      "source": "C:/Users/sachi/Downloads/roxx-3.jpeg",
+      "master": "output/imagegen/venue/roxx-3-enhanced.png",
+      "web": "public/images/venue/roxx-3-enhanced.webp",
+      "responsiveWidths": [
+        360,
+        600
+      ],
+      "prompt": "Use case: lighting-weather. Asset type: real ROXX Hotel and Restaurant venue photograph for its existing website gallery. Input image: the single referenced image is the EDIT TARGET, not a style reference. Primary request: professionally retouch this exact photograph only. Improve balanced exposure, recover highlights and shadow detail, neutralize unwanted colour casts while keeping the original colours, add restrained warm inviting hospitality colour grading, subtle local contrast, natural clarity and noise reduction. Preserve the EXACT camera angle, portrait composition, entire frame, room dimensions, architecture, furniture, every object, décor, artwork, lettering and logos. This is conservative photographic enhancement, not redesign or reconstruction. Keep recognizably identical to the original photograph. No added objects, no removed objects, no substituted decorations, no new lighting fixtures, no invented room, no artificial blur, no HDR halos, no oversaturation, no text overlay. Return only the same full portrait photograph attractively retouched, high resolution. Photo-specific invariant: Preserve the pink sofas, rows of burgundy chairs, gold crystal chandeliers, shaped pale ceiling, windows, tropical wall artwork, air conditioners and wall fans exactly."
+    },
+    {
+      "source": "C:/Users/sachi/Downloads/roxx-4.jpeg",
+      "master": "output/imagegen/venue/roxx-4-enhanced.png",
+      "web": "public/images/venue/roxx-4-enhanced.webp",
+      "responsiveWidths": [
+        360,
+        600
+      ],
+      "prompt": "Use case: lighting-weather. Asset type: real ROXX Hotel and Restaurant venue photograph for its existing website gallery. Input image: the single referenced image is the EDIT TARGET, not a style reference. Primary request: professionally retouch this exact photograph only. Improve balanced exposure, recover highlights and shadow detail, neutralize unwanted colour casts while keeping the original colours, add restrained warm inviting hospitality colour grading, subtle local contrast, natural clarity and noise reduction. Preserve the EXACT camera angle, portrait composition, entire frame, room dimensions, architecture, furniture, every object, décor, artwork, lettering and logos. This is conservative photographic enhancement, not redesign or reconstruction. Keep recognizably identical to the original photograph. No added objects, no removed objects, no substituted decorations, no new lighting fixtures, no invented room, no artificial blur, no HDR halos, no oversaturation, no text overlay. Return only the same full portrait photograph attractively retouched, high resolution. Photo-specific invariant: Preserve the cream booths, brown wooden chairs, black reflective dining tables, glasses, tissue holders, plants, elephant wall art, windows, black ceiling, fans and air conditioners exactly."
+    }
+  ]
+}

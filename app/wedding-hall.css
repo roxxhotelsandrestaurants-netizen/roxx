@@ -1,0 +1,52 @@
+.wedding-hall { border-top: 1px solid var(--border); }
+.wedding-hall-heading { display: flex; justify-content: space-between; align-items: flex-end; gap: 40px; }
+.wedding-hall-heading h2 { font-size: clamp(42px, 4.1vw, 59px); line-height: 1.1; letter-spacing: -1.8px; }
+.wedding-hall-heading .eyebrow { margin-bottom: 21px; }
+.wedding-hall-price { padding-bottom: 3px; }
+.wedding-hall-price > span { display: block; color: var(--gold); font-size: 8px; letter-spacing: 1.8px; margin-bottom: 15px; }
+.wedding-hall-price > strong { display: block; font: 60px/1.1 Georgia, serif; letter-spacing: -2px; color: var(--dark); }
+.wedding-hall-price > a { display: flex; align-items: center; gap: 15px; width: fit-content; margin-top: 17px; padding-bottom: 7px; border-bottom: 1px solid var(--gold); color: var(--muted); font-size: 10px; }
+.wedding-hall-intro { font-size: 12px; line-height: 1.9; color: var(--muted); margin-top: 24px; max-width: 620px; }
+.wedding-amenities { display: grid; grid-template-columns: 1.25fr 1fr 0.9fr; border-top: 1px solid var(--border); margin-top: 35px; padding-top: 29px; }
+.wedding-amenities > article { min-width: 0; padding-inline: 32px; border-right: 1px solid var(--border); }
+.wedding-amenities > article:first-child { padding-left: 0; }
+.wedding-amenities > article:last-child { padding-right: 0; border-right: 0; }
+.wedding-amenity-heading { display: flex; align-items: center; gap: 13px; min-height: 38px; margin-bottom: 22px; }
+.wedding-amenity-heading > svg { color: var(--gold); flex-shrink: 0; }
+.wedding-amenity-heading > h3 { font-size: 29px; line-height: 1.2; letter-spacing: -.7px; }
+.wedding-amenities ul { margin: 0; padding-left: 16px; }
+.wedding-amenities li { font-size: 12px; color: #626658; line-height: 1.85; margin-bottom: 13px; padding-left: 5px; }
+.wedding-amenities li::marker { color: var(--gold); font-size: 9px; }
+.wedding-amenities li:last-child { margin-bottom: 0; }
+.wedding-hall-actions { display: flex; justify-content: space-between; align-items: center; gap: 35px; margin-top: 32px; padding-top: 25px; border-top: 1px solid var(--border); }
+.wedding-hall-actions > p { font-size: 12px; line-height: 1.9; color: var(--muted); }
+.wedding-hall-actions > div { display: flex; align-items: center; gap: 29px; }
+.wedding-hall-actions .button { font-size: 11px; gap: 25px; }
+.wedding-hall-actions .text-link { font-size: 10px; gap: 10px; }
+@media(max-width:900px) {
+  .wedding-hall-heading h2 { font-size: 48px; }
+  .wedding-hall-price > strong { font-size: 49px; }
+  .wedding-amenities > article { padding-inline: 20px; }
+  .wedding-amenity-heading { gap: 10px; align-items: flex-start; }
+  .wedding-amenity-heading > h3 { font-size: 24px; }
+  .wedding-amenities li { font-size: 11px; }
+  .wedding-hall-actions > div { gap: 19px; }
+}
+@media(max-width:650px) {
+  .wedding-hall-heading { display: block; }
+  .wedding-hall-heading h2 { font-size: 42px; }
+  .wedding-hall-price { margin-top: 27px; }
+  .wedding-hall-price > strong { font-size: 50px; }
+  .wedding-hall-price > span { font-size: 7px; margin-bottom: 11px; }
+  .wedding-hall-price > a { font-size: 9px; margin-top: 13px; }
+  .wedding-hall-intro { font-size: 11px; margin-top: 22px; }
+  .wedding-amenities { grid-template-columns: 1fr; padding-top: 0; margin-top: 27px; }
+  .wedding-amenities > article, .wedding-amenities > article:first-child, .wedding-amenities > article:last-child { padding: 25px 0; border-right: 0; border-bottom: 1px solid var(--border); }
+  .wedding-amenity-heading { min-height: 0; margin-bottom: 18px; align-items: center; gap: 13px; }
+  .wedding-amenity-heading > h3 { font-size: 28px; }
+  .wedding-amenities li { font-size: 12px; }
+  .wedding-hall-actions { display: block; margin-top: 0; border-top: 0; padding-top: 23px; }
+  .wedding-hall-actions > p { font-size: 11px; }
+  .wedding-hall-actions > div { margin-top: 22px; flex-wrap: wrap; gap: 22px; }
+  .wedding-hall-actions .button { font-size: 10px; }
+}

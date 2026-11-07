@@ -1,0 +1,130 @@
+{
+  "mode": "Built-in image_gen tool",
+  "purpose": "High-resolution illustrative food photography replacing small menu-page crops",
+  "source_dimensions": [
+    1536,
+    1024
+  ],
+  "exports": {
+    "master": [
+      1200,
+      800
+    ],
+    "medium": [
+      600,
+      400
+    ],
+    "small": [
+      320,
+      213
+    ]
+  },
+  "notes": "Images illustrate dish families; they are not verified photographs of the restaurant's actual individual dishes. Dal and bread export names share the dal-and-naan scene.",
+  "images": [
+    {
+      "key": "biryani-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for a premium Indian restaurant website. Landscape 3:2, 1536x1024 or higher if possible. Photorealistic professional restaurant food photography, tack-sharp fine textures, detailed natural ingredients, no smearing, no artificial over-sharpening. A single main dish fully visible and centered, fills 75% of the frame with breathing room around its edges so the photo also crops beautifully into a circle. Camera at a 45-degree overhead angle. Dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side lighting, cinematic but restrained, rich realistic colour, tactile aged brass or dark ceramic serving bowl. No text, no lettering, no watermark, no logo, no people. This is illustrative food photography, not a verified photograph of a specific restaurant's actual dish. Subject: A beautiful generous serving bowl of chicken dum biryani with individual long basmati grains, saffron and white rice, fried onions, a few fresh mint and coriander leaves, clearly visible tender browned chicken pieces, and a small lime wedge. The full main bowl is visible, authentic and exceptionally appetizing.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-f79a4933-752f-4d59-a748-fa31ec995302.png",
+      "export_names": [
+        "biryani-hq"
+      ]
+    },
+    {
+      "key": "paneer-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for a premium Indian restaurant website. Landscape 3:2, 1536x1024 or higher if possible. Photorealistic professional restaurant food photography, tack-sharp fine textures, detailed natural ingredients, no smearing, no artificial over-sharpening. A single main dish fully visible and centered, fills 75% of the frame with breathing room around its edges so the photo also crops beautifully into a circle. Camera at a 45-degree overhead angle. Dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side lighting, cinematic but restrained, rich realistic colour, tactile aged brass or dark ceramic serving bowl. No text, no lettering, no watermark, no logo, no people. This is illustrative food photography, not a verified photograph of a specific restaurant's actual dish. Subject: Paneer makhan wala: neat tender paneer cubes in rich glossy orange tomato-butter gravy in a small aged brass bowl, a delicate swirl of cream and coriander, with authentic visible texture. The entire bowl and some tabletop visible. Do not include meat.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-1ac7ac58-edbc-4d1f-ad42-c9a3c0965733.png",
+      "export_names": [
+        "paneer-hq"
+      ]
+    },
+    {
+      "key": "chicken-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for a premium Indian restaurant website. Landscape 3:2, 1536x1024 or higher if possible. Photorealistic professional restaurant food photography, tack-sharp fine textures, detailed natural ingredients, no smearing, no artificial over-sharpening. A single main dish fully visible and centered, fills 75% of the frame with breathing room around its edges so the photo also crops beautifully into a circle. Camera at a 45-degree overhead angle. Dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side lighting, cinematic but restrained, rich realistic colour, tactile aged brass or dark ceramic serving bowl. No text, no lettering, no watermark, no logo, no people. This is illustrative food photography, not a verified photograph of a specific restaurant's actual dish. Subject: Butter chicken in a beautiful aged copper handi: identifiable tender chicken pieces in silky orange-red tomato-butter gravy, tasteful delicate cream swirl, fresh coriander. A little natural steam. The full handi, including both small handles, is visible.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-0735e8aa-88bd-49a5-9fbc-58e167675ca8.png",
+      "export_names": [
+        "chicken-hq"
+      ]
+    },
+    {
+      "key": "dragon-paneer-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for a premium Indian restaurant website. Landscape 3:2, 1536x1024 or higher if possible. Photorealistic professional restaurant food photography, tack-sharp fine textures, detailed natural ingredients, no smearing, no artificial over-sharpening. A single main dish fully visible and centered, fills 75% of the frame with breathing room around its edges so the photo also crops beautifully into a circle. Camera at a 45-degree overhead angle. Dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side lighting, cinematic but restrained, rich realistic colour, tactile aged brass or dark ceramic serving bowl. No text, no lettering, no watermark, no logo, no people. This is illustrative food photography, not a verified photograph of a specific restaurant's actual dish. Subject: Dragon paneer, Indo-Chinese style: crisp golden paneer cubes tossed in glossy red chilli glaze with red and green bell peppers, sliced onion, spring onion and a few sesame seeds, beautifully plated in a shallow dark ceramic bowl. Keep individual paneer cubes sharply detailed. Vegetarian, no meat.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-b48424f6-c82c-46f5-b50d-1f88d4902c9b.png",
+      "export_names": [
+        "dragon-paneer-hq"
+      ]
+    },
+    {
+      "key": "soup-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for a premium Indian restaurant website. Landscape 3:2, 1536x1024 or higher if possible. Photorealistic professional restaurant food photography, tack-sharp fine textures, detailed natural ingredients, no smearing, no artificial over-sharpening. A single main dish fully visible and centered, fills 75% of the frame with breathing room around its edges so the photo also crops beautifully into a circle. Camera at a 45-degree overhead angle. Dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side lighting, cinematic but restrained, rich realistic colour, tactile aged brass or dark ceramic serving bowl. No text, no lettering, no watermark, no logo, no people. This is illustrative food photography, not a verified photograph of a specific restaurant's actual dish. Subject: A warm bowl of vegetable manchow soup in dark ceramic, delicately rising steam, finely cut vegetables and a small tangle of crispy noodles on top. Rich appetizing brown broth, natural texture. The whole bowl visible with one understated spoon beside it.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-56983719-08ca-4cd9-bf9a-6bc9635b496e.png",
+      "export_names": [
+        "soup-hq"
+      ]
+    },
+    {
+      "key": "dal-bread-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for a premium Indian restaurant website. Landscape 3:2, 1536x1024 or higher if possible. Photorealistic professional restaurant food photography, tack-sharp fine textures, detailed natural ingredients, no smearing, no artificial over-sharpening. A single main dish fully visible and centered, fills 75% of the frame with breathing room around its edges so the photo also crops beautifully into a circle. Camera at a 45-degree overhead angle. Dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side lighting, cinematic but restrained, rich realistic colour, tactile aged brass or dark ceramic serving bowl. No text, no lettering, no watermark, no logo, no people. This is illustrative food photography, not a verified photograph of a specific restaurant's actual dish. Subject: An inviting Indian comfort meal: a rustic dark serving bowl of rich dal makhani is the main subject slightly left of centre, finished with a little butter and cream. A basket with two beautifully charred garlic naans beside it on the right, both fully visible and clearly separated. Fine details in the lentils and blistered bread. No meat.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-c3fd17b5-5e8f-43ad-9354-ed9133437c94.png",
+      "export_names": [
+        "dal-hq",
+        "bread-hq"
+      ]
+    },
+    {
+      "key": "noodles-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for a premium Indian restaurant website. Landscape 3:2, 1536x1024 or higher if possible. Photorealistic professional restaurant food photography, tack-sharp fine textures, detailed natural ingredients, no smearing, no artificial over-sharpening. A single main dish fully visible and centered, fills 75% of the frame with breathing room around its edges so the photo also crops beautifully into a circle. Camera at a 45-degree overhead angle. Dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side lighting, cinematic but restrained, rich realistic colour, tactile aged brass or dark ceramic serving bowl. No text, no lettering, no watermark, no logo, no people. This is illustrative food photography, not a verified photograph of a specific restaurant's actual dish. Subject: A shallow dark bowl of delicious Indo-Chinese vegetable Hakka noodles, individual lightly glistening noodles, finely sliced bell pepper, cabbage, carrot and spring onion. Beautiful vibrant vegetables, natural textures, appetizing restrained styling. Entire bowl visible, vegetarian, no meat.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-f42088aa-fe6d-495c-9a09-df9165265a3c.png",
+      "export_names": [
+        "noodles-hq"
+      ]
+    },
+    {
+      "key": "fish-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for an Indian restaurant website. Landscape 3:2, photorealistic professional food photography, tack-sharp fine natural textures. A single main serving bowl fully visible and centered, fills 75% of frame with breathing room so it also crops into a circle. Camera at 45 degrees overhead, dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side light, understated aged brass or dark ceramic bowl. Authentic sumptuous food. No text, lettering, watermark, logo or people. This is illustrative food photography, not a verified photograph of an existing restaurant's actual dish. Subject: Two distinct tender fish steaks in rich golden-orange Indian fish curry with fresh coriander and a few green chillies. The whole wide serving bowl is visible, appetizing curry texture and clearly recognizable fish, restrained styling.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-5c303dd1-e529-4f89-8421-eaaf22c170bb.png",
+      "export_names": [
+        "fish-hq"
+      ]
+    },
+    {
+      "key": "mutton-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for an Indian restaurant website. Landscape 3:2, photorealistic professional food photography, tack-sharp fine natural textures. A single main serving bowl fully visible and centered, fills 75% of frame with breathing room so it also crops into a circle. Camera at 45 degrees overhead, dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side light, understated aged brass or dark ceramic bowl. Authentic sumptuous food. No text, lettering, watermark, logo or people. This is illustrative food photography, not a verified photograph of an existing restaurant's actual dish. Subject: A beautiful bowl of slow-cooked mutton rogan josh, clearly recognizable rustic mutton pieces in deep red-brown glossy gravy with finely chopped coriander. Entire bowl visible, real texture, warm appetizing atmosphere.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-027ae4f6-d42a-457b-8b9c-4d186c05f3cc.png",
+      "export_names": [
+        "mutton-hq"
+      ]
+    },
+    {
+      "key": "vegetables-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution editorial food photograph for an Indian restaurant website. Landscape 3:2, photorealistic professional food photography, tack-sharp fine natural textures. A single main serving bowl fully visible and centered, fills 75% of frame with breathing room so it also crops into a circle. Camera at 45 degrees overhead, dark charcoal and warm walnut tabletop, softly blurred dark background, warm natural side light, understated aged brass or dark ceramic bowl. Authentic sumptuous food. No text, lettering, watermark, logo or people. This is illustrative food photography, not a verified photograph of an existing restaurant's actual dish. Subject: A generous beautiful bowl of Indian mixed vegetable curry with distinct cauliflower florets, peas, carrot, potato, green beans and a few pieces of okra, warm lightly spiced golden gravy, fresh coriander garnish. Vegetarian, no paneer, no meat. Entire bowl visible.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-9b0673f6-1481-40ee-93e6-c02381ffb138.png",
+      "export_names": [
+        "vegetables-hq"
+      ]
+    },
+    {
+      "key": "veg-biryani-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution premium Indian restaurant editorial food photograph. Landscape 3:2, very sharp natural food textures, single aged brass bowl fully visible and centered, fills 75 percent of frame, camera 45 degrees above, dark charcoal and walnut tabletop, warm soft side light, matching an understated luxury Indian food photography series. No text, logo, watermark, or people. This is illustrative photography, not a verified restaurant dish photograph. Subject: A bowl of fragrant vegetarian biryani with separate long white and saffron basmati rice grains, peas, carrots, green beans, cauliflower florets and fresh coriander, light fried onions. Strictly vegetarian: absolutely no meat, chicken, eggs, bones, or seafood.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-96fe18d8-965f-40e4-be90-243f43453db4.png",
+      "export_names": [
+        "veg-biryani-hq"
+      ]
+    },
+    {
+      "key": "rice-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution premium Indian restaurant editorial food photograph. Landscape 3:2, very sharp natural food textures, single aged brass bowl fully visible and centered, fills 75 percent of frame, camera 45 degrees above, dark charcoal and walnut tabletop, warm soft side light, matching an understated luxury Indian food photography series. No text, logo, watermark, or people. This is illustrative photography, not a verified restaurant dish photograph. Subject: A beautiful simple bowl of fluffy cooked long-grain basmati rice, mostly bright white with a few cumin seeds and a subtle scattering of fresh coriander. Natural separate grains, minimal elegant styling. Strictly vegetarian, no meat, eggs or seafood.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-35cf221a-f2fd-4a01-9921-40e056b1c2ba.png",
+      "export_names": [
+        "rice-hq"
+      ]
+    },
+    {
+      "key": "egg-hq",
+      "prompt": "Use case: ads-marketing. Asset type: high-resolution premium Indian restaurant editorial food photograph. Landscape 3:2, very sharp natural food textures, single aged brass bowl fully visible and centered, fills 75 percent of frame, camera 45 degrees above, dark charcoal and walnut tabletop, warm soft side light, matching an understated luxury Indian food photography series. No text, logo, watermark, or people. This is illustrative photography, not a verified restaurant dish photograph. Subject: A beautiful bowl of Indian egg curry with three clearly visible hard-boiled egg halves in glossy golden-orange tomato gravy, fresh coriander garnish. Recognizable white and yellow boiled eggs. No chicken, no other meat.",
+      "generated_source": "C:\\Users\\sachi\\.codex\\generated_images\\01a1a801-2423-7be2-b194-de793dd01c0f\\exec-d46a57cd-83ff-40bc-b715-b6a1b443a5a2.png",
+      "export_names": [
+        "egg-hq"
+      ]
+    }
+  ]
+}
