@@ -1,0 +1,12 @@
+.booking-panel input.booking-honeypot { display: none; }
+.booking-panel .booking-error { color: #8a2924; font-size: 12px; line-height: 1.8; padding: 13px 0; margin-top: 12px; border-block: 1px solid #8a292440; }
+.booking-send { width: 100%; }
+.booking-panel button:disabled { cursor: wait; opacity: .6; }
+.booking-summary .booking-call { margin-top: 20px; }
+.booking-summary td, .summary-notes { overflow-wrap: anywhere; }
+.booking-summary .summary-notes { white-space: pre-wrap; }
+.footer-bottom { flex-wrap: wrap; }
+@media(max-width:650px) {
+  .booking-panel .booking-error { font-size: 11px; }
+  .booking-send { font-size: 11px; }
+}

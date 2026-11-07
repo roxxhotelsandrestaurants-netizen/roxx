@@ -5,6 +5,7 @@ import "./venue-gallery.css";
 import "./package-menus.css";
 import "./booking-terms.css";
 import "./wedding-hall.css";
+import "./booking-notification.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://roxx-hotel-motipur.developer-easyryt.chatgpt.site"),
   title: "ROXX Hotel & Restaurant | Good Food. Great Moments. | NH 139, AIIMS–Naubatpur Road, Motipur, Patna",
