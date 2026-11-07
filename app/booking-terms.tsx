@@ -5,7 +5,7 @@ const policyGroups = [
   {
     title: "Important highlights",
     items: [
-      "Genset fuel cost extra [200 litres (fixed)].",
+      "Genset fuel cost extra [100 litres (fixed)].",
       "Please bring your own locks for the room for security purposes.",
       "A refundable security deposit of ₹5,000 is mandatory at the time of booking.",
     ],

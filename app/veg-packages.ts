@@ -26,7 +26,7 @@ export const vegPackages: VegPackage[] = [
     id: "silver", name: "Veg Silver", price: 599,
     items: [
       { name: "Welcome Drink", quantity: 1 },
-      { name: "Starter", quantity: 1 },
+      { name: "Starter", quantity: 2 },
       { name: "Salad", quantity: 1 },
       { name: "Curd Preparation", quantity: 1 },
       { name: "Main Course Veg", quantity: 2 },
