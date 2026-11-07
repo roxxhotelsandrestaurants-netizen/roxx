@@ -1,12 +1,13 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import { Icon } from "../icons";
+import { pageMetadata } from "../site-metadata";
 import "./privacy-policy.css";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Privacy Policy | ROXX Hotel & Restaurant",
   description: "How ROXX Hotel & Restaurant handles booking enquiries, contact details, email notifications and third-party services.",
-};
+  path: "/privacy-policy",
+});
 
 const contents = [
   ["information", "Information you share"],

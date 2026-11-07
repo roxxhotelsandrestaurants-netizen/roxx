@@ -51,3 +51,9 @@ The hotel image was supplied by the user. The generated hero is illustrative foo
 ## Deployment
 
 The project uses Next.js static export. `.openai/hosting.json` retains the Sites project identity and declares `out/` as the deployment directory. The entire export can also be hosted on another static host.
+
+## Search and sharing
+
+`app/site-metadata.ts` defines `https://roxxhotel.com/` as the production domain. Each page has its own canonical URL, title, description, Open Graph metadata and Twitter card. Restaurant JSON-LD uses the name, address, phone number, cuisines and social profile already shown on the website. The thank-you page has `noindex, follow` and is excluded from the sitemap.
+
+The static build includes `sitemap.xml` and `robots.txt`. Deploy the updated `out/` folder to the production domain, then submit `https://roxxhotel.com/sitemap.xml` in Google Search Console. Redirect other hostnames and HTTP traffic to `https://roxxhotel.com/` in your hosting configuration.

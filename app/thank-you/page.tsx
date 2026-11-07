@@ -1,14 +1,15 @@
-import type { Metadata } from "next";
 import type { CSSProperties } from "react";
 import Link from "next/link";
 import { Icon } from "../icons";
+import { pageMetadata } from "../site-metadata";
 import "./thank-you.css";
 
-export const metadata: Metadata = {
+export const metadata = pageMetadata({
   title: "Thank You | ROXX Hotel & Restaurant",
   description: "Thank you for your booking enquiry. The ROXX team will contact you to discuss your plans and availability.",
-  robots: { index: false, follow: true },
-};
+  path: "/thank-you",
+  noIndex: true,
+});
 
 const confettiColours = ["#ab7d38", "#d7b779", "#356553", "#ba7355", "#8f9a72"];
 

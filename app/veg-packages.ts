@@ -16,7 +16,7 @@ export const vegPackages: VegPackage[] = [
       { name: "Steam Basmati Rice / Jeera Rice", quantity: 1 },
       { name: "Tandoori Roti & Naan", quantity: 1 },
       { name: "Salad", quantity: 1 },
-      { name: "Papad", quantity: 1 },
+      { name: "Masala Papad", quantity: 99 },
       { name: "Pickle", quantity: 1 },
       { name: "Raita", quantity: 1 },
       { name: "Dessert", quantity: 1 },
